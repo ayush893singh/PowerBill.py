@@ -105,5 +105,4 @@ Future Improvements
 ---
 
 Author
-
-Ayush Singh
+Ayush Singh https://github.com/ayush893singh
