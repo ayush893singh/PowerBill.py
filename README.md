@@ -1,10 +1,10 @@
-PowerBill
+## PowerBill
 
 A simple Python project that calculates electricity bills based on the number of units consumed.
 
 ---
 
-Features
+## Features
 
 - Calculate electricity bill instantly
 - Uses slab-based billing system
@@ -13,13 +13,13 @@ Features
 
 ---
 
-Technologies Used
+## Technologies Used
 
 - Python
 
 ---
 
-Concepts Used
+## Concepts Used
 
 This project uses:
 
@@ -31,7 +31,7 @@ This project uses:
 
 ---
 
-Billing Rates
+## Billing Rates
 
 Units Consumed| Rate
 0 – 100| ₹5 per unit
@@ -40,7 +40,7 @@ Above 200| ₹10 per unit
 
 ---
 
-Installation
+## Installation
 
 1. Install Python from https://www.python.org/
 2. Download or clone this repository.
@@ -48,13 +48,13 @@ Installation
 
 ---
 
-How to Run
+## How to Run
 
 python main.py
 
 ---
 
-How It Works
+## How It Works
 
 1. User enters the number of electricity units consumed.
 2. The program checks which billing slab applies.
@@ -63,7 +63,7 @@ How It Works
 
 ---
 
-Example Output
+## Example Output
 
 ===== Electricity Bill Calculator =====
 
@@ -85,7 +85,7 @@ Total Bill = ₹1700
 
 ---
 
-Project Structure
+## Project Structure
 
 PowerBill/
 │
@@ -94,7 +94,7 @@ PowerBill/
 
 ---
 
-Future Improvements
+## Future Improvements
 
 - Monthly bill history
 - GST calculation
@@ -104,5 +104,5 @@ Future Improvements
 
 ---
 
-Author
+## Author
 Ayush Singh https://github.com/ayush893singh
