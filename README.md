@@ -48,12 +48,6 @@ Above 200| ₹10 per unit
 
 ---
 
-## How to Run
-
-python main.py
-
----
-
 ## How It Works
 
 1. User enters the number of electricity units consumed.
