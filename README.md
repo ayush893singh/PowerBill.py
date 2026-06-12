@@ -78,16 +78,6 @@ For 250 units:
 Total Bill = ₹1700
 
 ---
-
-## Project Structure
-
-PowerBill/
-│
-├── main.py
-└── README.md
-
----
-
 ## Future Improvements
 
 - Monthly bill history
