@@ -78,15 +78,5 @@ For 250 units:
 Total Bill = ₹1700
 
 ---
-## Future Improvements
-
-- Monthly bill history
-- GST calculation
-- Customer name input
-- Bill receipt generation
-- Save bill records to a file
-
----
-
 ## Author
 Ayush Singh https://github.com/ayush893singh
